@@ -1,0 +1,10 @@
+1.Crear las variables básicas 
+2.Definir un vector.
+3.Asignar el tamaño del vector.
+4.Llenar el vector con numeros aleatorios
+5.Ordenar el vector de forma que el valor de la primera posición sea el más grande.
+6.Intercambiar el primer y el último valor del vector
+7.Dejar fijo el último  valor, reduciendo el tamaño del vector disponible para ordenar.
+8.Asignar de nuevo el valor más grande en la primera posición, omitiendo el valor fijo.
+9.Repetir los pasos 6, 7 y 8 hasta que todos los números del vector estén ordenados.
+10.Mostrar el vector desordenado y el vector ordenado.
